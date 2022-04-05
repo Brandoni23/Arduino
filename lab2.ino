@@ -1,6 +1,6 @@
 //ENGR100
 //10-11-2018
-//3
+//2
 //Brandon Martinez
 //Jordan Habib
 const int FANPIN = A1;
